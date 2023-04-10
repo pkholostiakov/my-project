@@ -10,6 +10,7 @@ public class Main {
         System.out.println("THIS IS SOME CHANGES!!!!");
         System.out.println("One more commit.");
         System.out.println("AGAIN");
+        System.out.println("HAHA I DID IT!!!");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
